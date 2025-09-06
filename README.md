@@ -1,6 +1,6 @@
 # 👋 Hi 👋, I'm Aditya Kumar
 
-**✨ A passionate Frontend Developer || UI/UX Enthusiast || JavaScript Lover from India ✨**
+**✨ A passionate Frontend Developer || UI/UX Enthusiast || JavaScript Lover✨**
 
 📧 Email Me 👉 **📨 aditya5259kumar@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -37,9 +37,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aditya5259kumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-<!-- ---
-[![](https://visitcount.itsvg.in/api?id=aditya5259kumar&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
 
