@@ -15,7 +15,7 @@ I prioritize clean architecture, input validation, data sanitization (frontend +
 
 **1. Full-Stack Blog Platform (MERN)**  
 A complete blog platform built with secure authentication and structured backend logic.
-🔗 GitHub: [https://github.com/your-repo](https://github.com/aditya5259kumar/mern-blog-backend)
+🔗 GitHub: https://github.com/aditya5259kumar/mern-blog-app
 
 Key Features:
 - JWT-based authentication and authorization
@@ -30,7 +30,7 @@ Tech Used: React, Node.js, Express, MongoDB
 
 **2. Learn Notes Application (MERN)**  
 A secure note management system with tagging and search functionality.
-🔗 GitHub: [https://github.com/your-repo](https://github.com/aditya5259kumar/mern-blog-backend)](https://github.com/aditya5259kumar/Note-app)
+🔗 GitHub: https://github.com/aditya5259kumar/Note-app
 
 Key Highlights:
 - JWT-based user authentication
@@ -44,7 +44,7 @@ Tech Used: React · Node.js · Express · MongoDB
 
 **3. To-Do Management System (React + Node + SQL)**  
 A full-stack task management system with relational database integration.
-🔗 GitHub: [https://github.com/your-repo](https://github.com/aditya5259kumar/mern-blog-backend)](https://github.com/aditya5259kumar/Todo-app)
+🔗 GitHub: https://github.com/aditya5259kumar/Todo-app
 
 Key Highlights:
 - Secure authentication using JWT & bcrypt
