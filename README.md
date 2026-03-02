@@ -56,10 +56,10 @@ Tech Used: React · Node.js · Express · MySQL
 ### Tech Stack
 
 **Frontend**
-- React
 - HTML5
 - CSS3
 - Tailwind CSS
+- React
 - Framer Motion
 
 **Backend**
