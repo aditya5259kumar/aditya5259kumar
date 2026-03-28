@@ -22,7 +22,7 @@ Key Features:
 - Password hashing with bcrypt
 - Protected routes and middleware-based access control
 - CRUD operations for blogs and user profiles
-- Like and comment system with ownership-based deletion rules
+- Like and views system
 - Data sanitization on both frontend and backend
 - Author profile navigation and dynamic routing
 
