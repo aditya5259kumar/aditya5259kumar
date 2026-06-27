@@ -10,109 +10,6 @@ I enjoy transforming ideas into complete full-stack products with clean backend 
 
 ---
 
-## Featured Projects
-
-### LinkUp — Real-Time Chat Application
-
-A real-time messaging platform featuring private chats, Socket.IO communication, read receipts, typing indicators, file sharing, and user discovery.
-
-<p align="center">
-<img src="./assets/linkup.png" width="700">
-</p>
-
-**Highlights**
-
-* Real-time private messaging
-* Typing indicators & online presence
-* Read receipts & unread counters
-* Image & file sharing
-* User discovery & conversation management
-
-**Tech Stack**
-
-`React` • `Tailwind CSS` • `Redux Toolkit` • `Node.js` • `Express.js` • `MySQL` • `Socket.IO` • `JWT`
-
-**Source Code:** [https://github.com/aditya5259kumar/fullstack-chat-app](https://github.com/aditya5259kumar/fullstack-chat-app)
-
----
-
-### BEOG — MERN Blogging Platform
-
-A feature-rich blogging platform supporting rich text editing, author profiles, categories, likes, views, and multi-image blog publishing.
-
-<p align="center">
-<img src="./assets/beog.png" width="700">
-</p>
-
-**Highlights**
-
-* Rich text editor
-* Multi-image publishing
-* Dynamic author profiles
-* Category filtering
-* Likes & views tracking
-
-**Tech Stack**
-
-`React` • `Redux Toolkit` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB` • `JWT`
-
-**Live Demo:** [https://your-blog-demo.com](https://github.com/aditya5259kumar/mern-blog-app)
-
-**Source Code:** [https://github.com/aditya5259kumar/mern-blog-app
-](https://mern-blog-app-mu-ecru.vercel.app/)
-
----
-
-### Notely — MERN Notes Application
-
-A secure notes management application with authentication, instant search, note pinning, and responsive UI.
-
-<p align="center">
-<img src="./assets/notely.png" width="700">
-</p>
-
-**Highlights**
-
-* Secure authentication
-* CRUD operations
-* Search notes
-* Pin important notes
-
-**Tech Stack**
-
-`React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB`
-
-**Live Demo:** [https://your-notely-demo.com](https://note-app-five-lilac.vercel.app)
-
-**Source Code:** [https://github.com/aditya5259kumar/Note-app](https://github.com/aditya5259kumar/fullstack-Note-app)
-
----
-
-### TaskMelt — Full-Stack Todo App
-
-A responsive task management application built with React, Node.js, Express, and MySQL.
-
-<p align="center">
-<img src="./assets/taskflow.png" width="700">
-</p>
-
-**Highlights**
-
-* JWT Authentication
-* CRUD Task Management
-* Context API
-* Responsive Design
-
-**Tech Stack**
-
-`React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MySQL`
-
-**Live Demo:** [https://your-taskmelt-demo.com](https://fullstack-todo-app-nu.vercel.app/)
-
-**Source Code:** [https://github.com/aditya5259kumar/Todo-app](https://github.com/aditya5259kumar/fullstack-Todo-app)
-
----
-
 # Tech Stack
 
 ### Frontend
@@ -145,6 +42,97 @@ A responsive task management application built with React, Node.js, Express, and
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
 </p>
+
+---
+
+## Featured Projects
+
+### LinkUp — Real-Time Chat Application
+
+A real-time messaging platform featuring private chats, Socket.IO communication, read receipts, typing indicators, file sharing, and user discovery.
+
+
+**Highlights**
+
+* Real-time private messaging
+* Typing indicators & online presence
+* Read receipts & unread counters
+* Image & file sharing
+* User discovery & conversation management
+
+**Tech Stack**
+
+`React` • `Tailwind CSS` • `Redux Toolkit` • `Node.js` • `Express.js` • `MySQL` • `Socket.IO` • `JWT`
+
+**Source Code:** [https://github.com/aditya5259kumar/fullstack-chat-app](https://github.com/aditya5259kumar/fullstack-chat-app)
+
+---
+
+### BEOG — MERN Blogging Platform
+
+A feature-rich blogging platform supporting rich text editing, author profiles, categories, likes, views, and multi-image blog publishing.
+
+
+**Highlights**
+
+* Rich text editor
+* Multi-image publishing
+* Dynamic author profiles
+* Category filtering
+* Likes & views tracking
+
+**Tech Stack**
+
+`React` • `Redux Toolkit` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB` • `JWT`
+
+**Live Demo:** [https://your-blog-demo.com](https://mern-blog-app-mu-ecru.vercel.app/)
+
+**Source Code:** [https://github.com/aditya5259kumar/mern-blog-app
+](https://github.com/aditya5259kumar/mern-blog-app)
+
+---
+
+### Notely — MERN Notes Application
+
+A secure notes management application with authentication, instant search, note pinning, and responsive UI.
+
+
+**Highlights**
+
+* Secure authentication
+* CRUD operations
+* Search notes
+* Pin important notes
+
+**Tech Stack**
+
+`React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB`
+
+**Live Demo:** [https://your-notely-demo.com](https://note-app-five-lilac.vercel.app)
+
+**Source Code:** [https://github.com/aditya5259kumar/Note-app](https://github.com/aditya5259kumar/fullstack-Note-app)
+
+---
+
+### TaskMelt — Full-Stack Todo App
+
+A responsive task management application built with React, Node.js, Express, and MySQL.
+
+
+**Highlights**
+
+* JWT Authentication
+* CRUD Task Management
+* Context API
+* Responsive Design
+
+**Tech Stack**
+
+`React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MySQL`
+
+**Live Demo:** [https://your-taskmelt-demo.com](https://fullstack-todo-app-nu.vercel.app/)
+
+**Source Code:** [https://github.com/aditya5259kumar/Todo-app](https://github.com/aditya5259kumar/fullstack-Todo-app)
 
 ---
 
