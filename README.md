@@ -1,86 +1,191 @@
-## Aditya Kumar  
-Full-Stack Developer | Node.js, Express, React, MongoDB, MySQL
+# <h1>Hi , I'm Aditya Kumar</h1>
 
+<h3 >
+Full-Stack Developer passionate about building secure, scalable, and modern web applications.
+</h3>
 
-### About Me
+<p >
+I enjoy transforming ideas into complete full-stack products with clean backend architecture, secure authentication systems, REST APIs, relational & NoSQL databases, and responsive user interfaces.
+</p>
 
-I build full-stack web applications with a strong focus on backend structure, authentication systems, and database integrity.
+---
 
-My work includes designing RESTful APIs with Node.js and Express, implementing secure authentication using JWT and bcrypt, managing relational and NoSQL databases, and building responsive user interfaces with React and Tailwind CSS.
+## Featured Projects
 
-I prioritize clean architecture, input validation, data sanitization (frontend + backend), and role-based access control to ensure applications are secure and scalable.
+### LinkUp — Real-Time Chat Application
 
+A real-time messaging platform featuring private chats, Socket.IO communication, read receipts, typing indicators, file sharing, and user discovery.
 
-### Featured Projects
+<p align="center">
+<img src="./assets/linkup.png" width="700">
+</p>
 
-**1. Full-Stack Blog Platform (MERN)**  
-A complete blog platform built with secure authentication and structured backend logic.<br>
-🔗 GitHub: https://github.com/aditya5259kumar/mern-blog-app
+**Highlights**
 
-Key Features:
-- JWT-based authentication and authorization
-- Password hashing with bcrypt
-- Protected routes and middleware-based access control
-- CRUD operations for blogs and user profiles
-- Like and views system
-- Data sanitization on both frontend and backend
-- Author profile navigation and dynamic routing
+* Real-time private messaging
+* Typing indicators & online presence
+* Read receipts & unread counters
+* Image & file sharing
+* User discovery & conversation management
 
-Tech Used: React, Node.js, Express, MongoDB
+**Tech Stack**
 
-**2. Learn Notes Application (MERN)**  
-A secure note management system with tagging and search functionality.<br>
-🔗 GitHub: https://github.com/aditya5259kumar/Note-app
+`React` • `Tailwind CSS` • `Redux Toolkit` • `Node.js` • `Express.js` • `MySQL` • `Socket.IO` • `JWT`
 
-Key Highlights:
-- JWT-based user authentication
-- CRUD operations on notes
-- Pin/unpin functionality
-- Tag-based organization
-- Search functionality using query filtering
-- Responsive UI with structured state management
+**Source Code:** [https://github.com/aditya5259kumar/fullstack-chat-app](https://github.com/aditya5259kumar/fullstack-chat-app)
 
-Tech Used: React · Node.js · Express · MongoDB
+---
 
-**3. To-Do Management System (React + Node + SQL)**  
-A full-stack task management system with relational database integration.<br>
-🔗 GitHub: https://github.com/aditya5259kumar/Todo-app
+### BEOG — MERN Blogging Platform
 
-Key Highlights:
-- Secure authentication using JWT & bcrypt
-- RESTful API architecture
-- CRUD operations for tasks
-- Relational database design using SQL
-- Fully responsive frontend
+A feature-rich blogging platform supporting rich text editing, author profiles, categories, likes, views, and multi-image blog publishing.
 
-Tech Used: React · Node.js · Express · MySQL
+<p align="center">
+<img src="./assets/beog.png" width="700">
+</p>
 
+**Highlights**
 
-### Tech Stack
+* Rich text editor
+* Multi-image publishing
+* Dynamic author profiles
+* Category filtering
+* Likes & views tracking
 
-**Frontend**
-- HTML5
-- CSS3
-- Tailwind CSS
-- React
-- Framer Motion
+**Tech Stack**
 
-**Backend**
-- Node.js
-- Express.js
+`React` • `Redux Toolkit` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB` • `JWT`
 
-**Databases**
-- MongoDB
-- MySQL
+**Live Demo:** [https://your-blog-demo.com](https://github.com/aditya5259kumar/mern-blog-app)
 
-**Tools**
-- Git
-- GitHub
-- NPM
-- Vite
+**Source Code:** [https://github.com/aditya5259kumar/mern-blog-app
+](https://mern-blog-app-mu-ecru.vercel.app/)
 
+---
 
-### Contact
+### Notely — MERN Notes Application
 
-LinkedIn: https://linkedin.com/in/aditya5259kumar  
-Email: aditya5259kumar@gmail.com
+A secure notes management application with authentication, instant search, note pinning, and responsive UI.
+
+<p align="center">
+<img src="./assets/notely.png" width="700">
+</p>
+
+**Highlights**
+
+* Secure authentication
+* CRUD operations
+* Search notes
+* Pin important notes
+
+**Tech Stack**
+
+`React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB`
+
+**Live Demo:** [https://your-notely-demo.com](https://note-app-five-lilac.vercel.app)
+
+**Source Code:** [https://github.com/aditya5259kumar/Note-app](https://github.com/aditya5259kumar/fullstack-Note-app)
+
+---
+
+### TaskMelt — Full-Stack Todo App
+
+A responsive task management application built with React, Node.js, Express, and MySQL.
+
+<p align="center">
+<img src="./assets/taskflow.png" width="700">
+</p>
+
+**Highlights**
+
+* JWT Authentication
+* CRUD Task Management
+* Context API
+* Responsive Design
+
+**Tech Stack**
+
+`React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MySQL`
+
+**Live Demo:** [https://your-taskmelt-demo.com](https://fullstack-todo-app-nu.vercel.app/)
+
+**Source Code:** [https://github.com/aditya5259kumar/Todo-app](https://github.com/aditya5259kumar/fullstack-Todo-app)
+
+---
+
+# Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### APIs
+
+- REST APIs
+- JWT Authentication
+- Multer
+- Nodemailer
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
+</p>
+
+---
+
+# Currently Learning
+
+* Scalable Backend Architecture
+* Building a Full-Stack Job Portal
+* System Design Fundamentals
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya5259kumar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya5259kumar&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aditya5259kumar&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+Email: **[aditya5259kumar@gmail.com](mailto:aditya5259kumar@gmail.com)**
+
+LinkedIn: [https://linkedin.com/in/aditya5259kumar](https://www.linkedin.com/in/aditya5259kumar/)
+
+Portfolio: [https://your-portfolio-link.com](https://aditya-devportfolio.netlify.app/)
+
+Resume: [https://your-resume-link.com](https://drive.google.com/file/d/1XjF_g-qrOIuBK8LqDa-3tISbBOdoKmNk/view?usp=drivesdk)
+
+---
+
+<p>
+Thanks for visiting my profile! If you like my work, feel free to explore my repositories.
+</p>
