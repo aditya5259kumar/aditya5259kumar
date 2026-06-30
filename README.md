@@ -64,6 +64,8 @@ A real-time messaging platform featuring private chats, Socket.IO communication,
 
 `React` • `Tailwind CSS` • `Redux Toolkit` • `Node.js` • `Express.js` • `MySQL` • `Socket.IO` • `JWT`
 
+**Live Demo:** https://fullstack-chat-app-seven-lac.vercel.app/
+
 **Source Code:** [https://github.com/aditya5259kumar/fullstack-chat-app](https://github.com/aditya5259kumar/fullstack-chat-app)
 
 ---
@@ -85,7 +87,7 @@ A feature-rich blogging platform supporting rich text editing, author profiles, 
 
 `React` • `Redux Toolkit` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB` • `JWT`
 
-**Live Demo:** [https://your-blog-demo.com](https://mern-blog-app-mu-ecru.vercel.app/)
+**Live Demo:** https://mern-blog-app-mu-ecru.vercel.app/
 
 **Source Code:** [https://github.com/aditya5259kumar/mern-blog-app
 ](https://github.com/aditya5259kumar/mern-blog-app)
@@ -108,7 +110,7 @@ A secure notes management application with authentication, instant search, note 
 
 `React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB`
 
-**Live Demo:** [https://your-notely-demo.com](https://note-app-five-lilac.vercel.app)
+**Live Demo:** https://note-app-five-lilac.vercel.app
 
 **Source Code:** [https://github.com/aditya5259kumar/Note-app](https://github.com/aditya5259kumar/fullstack-Note-app)
 
@@ -130,7 +132,7 @@ A responsive task management application built with React, Node.js, Express, and
 
 `React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MySQL`
 
-**Live Demo:** [https://your-taskmelt-demo.com](https://fullstack-todo-app-nu.vercel.app/)
+**Live Demo:** https://fullstack-todo-app-nu.vercel.app/
 
 **Source Code:** [https://github.com/aditya5259kumar/Todo-app](https://github.com/aditya5259kumar/fullstack-Todo-app)
 
@@ -168,9 +170,9 @@ Email: **[aditya5259kumar@gmail.com](mailto:aditya5259kumar@gmail.com)**
 
 LinkedIn: [https://linkedin.com/in/aditya5259kumar](https://www.linkedin.com/in/aditya5259kumar/)
 
-Portfolio: [https://your-portfolio-link.com](https://aditya-devportfolio.netlify.app/)
+Portfolio: [https://aditya-portfolio-link.com](https://aditya-devportfolio.netlify.app/)
 
-Resume: [https://your-resume-link.com](https://drive.google.com/file/d/1XjF_g-qrOIuBK8LqDa-3tISbBOdoKmNk/view?usp=drivesdk)
+Resume: [https://aditya-resume-link.com](https://drive.google.com/file/d/1XjF_g-qrOIuBK8LqDa-3tISbBOdoKmNk/view?usp=drivesdk)
 
 ---
 
